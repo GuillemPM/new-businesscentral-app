@@ -1,0 +1,42 @@
+{
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "Default Test App Name",
+    "publisher": "Default Publisher",
+    "brief": "",
+    "description": "",
+    "version": "1.0.0.0",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+            "publisher": "Microsoft",
+            "name": "Test Runner",
+            "version": "19.0.0.0"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000001",
+            "publisher": "Default Publisher",
+            "name": "Default App Name",
+            "version": "1.0.0.0"
+        }
+    ],
+    "screenshots": [],
+    "application": "19.0.0.0",
+    "platform": "19.0.0.0",
+    "idRanges": [
+        {
+            "from": 80100,
+            "to": 80149
+        }
+    ],
+    "runtime": "8.0",
+    "resourceExposurePolicy": {
+        "includeSourceInSymbolFile": false,
+        "allowDebugging": true,
+        "allowDownloadingSource": false
+    }
+}
